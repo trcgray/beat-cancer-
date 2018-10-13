@@ -1,0 +1,35 @@
+body{
+  background-color: yellow;
+  background-image: linear-gradient(90deg,black,yellow);
+
+
+}
+
+h1{
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 250px;
+  background: -webkit-linear-gradient(90deg,yellow,black);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+
+}
+
+.box {
+  min-height: 300px;
+  background-color: white;
+  color: white;
+  margin: 50px auto;
+  width: 50%;
+  border-color: black;
+  border-width: medium;
+
+}
+
+#bigTxt {
+  font-size: 72px;
+  background: -webkit-linear-gradient(60deg,black,yellow);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+   text-align: center;
+}
